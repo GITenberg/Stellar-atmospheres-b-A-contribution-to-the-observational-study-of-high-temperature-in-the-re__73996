@@ -1,0 +1,48 @@
+_repo: Stellar-atmospheres-b-A-contribution-to-the-observational-study-of-high-temperature-in-the-re__73996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payne-Gaposchkin, Cecilia
+    aliases:
+    - Gaposchkin, Cecilia Helena Payne
+    - Payne, Cecilia H.
+    birthdate: 1900
+    deathdate: 1979
+    gutenberg_agent_id: '57304'
+    url: http://www.gutenberg.org/2009/agents/57304
+    wikipedia: https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin
+  editor:
+    agent_name: Shapley, Harlow
+    birthdate: 1885
+    deathdate: 1972
+    gutenberg_agent_id: '57296'
+    url: http://www.gutenberg.org/2009/agents/57296
+    wikipedia: https://en.wikipedia.org/wiki/Harlow_Shapley
+description: ''
+gutenberg_issued: '2024-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73996'
+  lccn: '25021096'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/002043947
+pgterms:marc905: 20240331072658paynegapos
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aCambridge :$bThe Observatory, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Harvard Observatory monographs. Harlow Shapley, editor. no. 1
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Astrophysics'
+- !lcsh 'Stars -- Spectra'
+- !lcsh 'Stars -- Temperature'
+- !lcc 'QB'
+- GITenberg
+title: 'Stellar atmospheres : $b A contribution to the observational study of high
+  temperature in the reversing layers of stars'
+url: http://www.gutenberg.org/ebooks/73996
